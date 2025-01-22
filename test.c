@@ -1,2 +1,10 @@
-ECHO가 설정되어 있습니다.
-"2nd Change in test.c" 
+#include <stdio.h>
+
+int main(void){
+  printf("Hello World!");
+}
+
+####
+a
+b
+c
