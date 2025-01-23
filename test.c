@@ -1,4 +1,3 @@
-//20251442
 #include <stdio.h>
 
 int main(void){
